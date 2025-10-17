@@ -1,5 +1,5 @@
 let a="madam"
-let b=a.split('')
+// let b=a.split('')
 let c=a.length
 let d=""
 
@@ -19,4 +19,5 @@ if (d==a)
 else
 {
     console.log("It’s not a palindrome!")
+
 }
